@@ -136,11 +136,6 @@ Feel free to fork this project and submit a pull request. Contributions are welc
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 💡 Acknowledgments
 
