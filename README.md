@@ -17,6 +17,8 @@
   Uses a deep learning model to detect plant diseases from uploaded leaf images and suggests remedies for early intervention.
 
 ---
+ ## Project Architecture
+ <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/267eec71-7934-4d51-9cf7-394a1bcde5c0" />
 
 ## 🛠 Technologies Used
 
@@ -24,6 +26,8 @@
 - HTML
 - CSS (Bootstrap, Font Awesome)
 - JavaScript
+## Project Flow
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9b378411-c6e7-43a8-bbc0-88addd8b4dae" />
 
 ### 🔹 Backend
 - **Framework:** Flask (Python)
